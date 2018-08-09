@@ -1,0 +1,5 @@
+# Игнорирование книжек и временных файлов
+
+Project Logs for BLDC_Controller/
+History/
+*.Zip
