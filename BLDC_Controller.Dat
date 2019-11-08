@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BLDC_Controller.PrjPCB|ReportField=ProjectFullPath~D:\Git\BLDC_Controller\BLDC_Controller.PrjPCB|ReportField=Title~Bill of Materials For Project [BLDC_Controller.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~101|ReportField=ReportTime~12:09:48|ReportField=ReportDate~07.02.2019|ReportField=ReportDateTime~07.02.2019 12:09:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~07.02.2019|ReportField=CurrentTime~12:07:20|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Git\BLDC_Controller\BLDC_Controller_Sch.SchDoc|ReportField=DocumentName~BLDC_Controller_Sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10.08.2018|ReportField=Organization~|ReportField=ProjectName~BLDC_Controller.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BLDC_Controller.PrjPCB|ReportField=DataSourceFullPath~D:\Git\BLDC_Controller\BLDC_Controller.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C1|1|47uF
+2|C2|1|22uF
+3|C3, C20, C21, C22|4|220nF
+4|C4, C7, C8, C11, C12, C13|6|100nF
+5|C5|1|3.3nF
+6|C6, C15, C19|3|10uF
+7|C9, C16, C17, C18, X7, X9, X16|7|
+8|C10|1|220uF
+9|C14|1|1nF
+10|DD1|1|Микросхема управления бесколлекторным эл.двиг.
+11|DD2|1|Регулятор напряжения LDO 800mA
+12|L1|1|Дроссель - Ток:  А; Ток насыщения:  А; Индуктивность:  мкГн; Допуск: ±%;
+13|R1, R2|2|120
+14|R3|1|100
+15|R4, R5, R6, R10, R50, R51, R52|7|0
+16|R7|1|39k
+17|R8, R9, R15, R16, R17|5|2.2k
+18|R11|1|2.1k
+19|R12, R13, R14, R25, R26, R27|6|1.78k
+20|R18, R19, R20, R21, R22, R23|6|27.4k
+21|R24|1|75k
+22|R28, R29, R30|3|13.7k
+23|R31, R32, R33, R34, R35, R36|6|62
+24|R37, R38, R39, R40, R41, R42|6|10
+25|R43|1|330
+26|R44, R45, R46, R47, R48, R49|6|0.02
+27|SA1|1|Тактовые кнопки  4х4 мм. SMD h=1,5 мм.
+28|VD1, VD2, VD5, VD12|4|Светодиод общего назначения - Цвет: Красный; N: 1; λ1:  645 нм; Iv1: 80 мкд; U: 2.6 В;
+29|VD3|1|TVS Диод, однонаправленный, Uраб. = 5В, Uпроб. = 6,74В, P = 1500 Вт
+30|VD4|1|SCHOTTKY BARRIER DIOD 0.2 AMPERES, 30 VOLTS
+31|VD6, VD7, VD8, VD9, VD10, VD11|6|150mA, 100V, SOD-323
+32|VT1, VT2, VT3, VT4, VT5, VT6|6|MOSFET силовой транзистор - Тип: N; Uси: 50 В; Rси(вкл): 0.35...0.25 Ом; Iси: 40А;
+33|X2|1|Вилка штыревая 2.54мм 1x4 прям
+34|X3|1|Разъем штыревой четырехконтактный
